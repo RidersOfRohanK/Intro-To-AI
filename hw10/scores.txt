@@ -1,2 +1,0 @@
--5: Illegal return type of make_move() in drop phase
-Total Score: 95
